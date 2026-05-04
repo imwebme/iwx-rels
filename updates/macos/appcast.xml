@@ -6,15 +6,15 @@
     <description>macOS updates for iwx</description>
     <language>ko</language>
     <item>
-      <title>v0.1.7</title>
-      <description><![CDATA[Automated desktop widget release v0.1.7.]]></description>
-      <pubDate>Mon, 04 May 2026 07:09:27 GMT</pubDate>
-      <sparkle:version>8</sparkle:version>
-      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+      <title>v0.1.8</title>
+      <description><![CDATA[Automated desktop widget release v0.1.8.]]></description>
+      <pubDate>Mon, 04 May 2026 07:21:50 GMT</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
       <enclosure
-        url="https://github.com/imwebme/iwx-rels/releases/download/v0.1.7/ImwebMacWidget-0.1.7.dmg"
-        sparkle:edSignature="62/Wg+zJ1x7GrRU0CzZZzCcgE9Pz4YvG7ZMiO2SxlpfViyfwlWa1cxlUGMTsTTd7AXU6I4nVi6C0XCRkj/JyBA=="
-        length="2083853"
+        url="https://github.com/imwebme/iwx-rels/releases/download/v0.1.8/ImwebMacWidget-0.1.8.dmg"
+        sparkle:edSignature="HGr+bJdxnUcOccbM6tcFzbmQy25aNV8cAilgbn7MjSX7GfiTV8grdbTtVbaona9h2cYCwcLAQrPEy8Yq8FfWBQ=="
+        length="2088792"
         type="application/octet-stream" />
     </item>
   </channel>
