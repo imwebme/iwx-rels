@@ -1,0 +1,11 @@
+{
+  "version": "0.1.6",
+  "notes": "Automated desktop widget release v0.1.6.",
+  "pub_date": "2026-05-04T05:36:34.874Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSTNqN0N2QUwzcHJJUHNUK05hTzZoSVN1VTc0Y0gvTmxaK0ZxRERXcGRrTk43eEVGQlhpWDVLRWRxMXVqUVNLMGJZb2k1VCsrQ1EzMUVxYnhkTUp3OUNod29EQVB5N3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3ODcyOTY5CWZpbGU6SW13ZWIgRGVza3RvcCBXaWRnZXRfMC4xLjZfeDY0LXNldHVwLmV4ZQpMWjN4UUlsRk8zRjlPZWdzODVUVG40aWl4U2VNdWRyU3FkZWloYVhIalFUN09OaGdHRzR3Y0tjT2wrT2c3VU14U3lzbkFBLzRDV2V1MFVTZGcvQlVDZz09Cg==",
+      "url": "https://github.com/imwebme/iwx-rels/releases/download/v0.1.6/Imweb%20Desktop%20Widget_0.1.6_x64-setup.exe"
+    }
+  }
+}

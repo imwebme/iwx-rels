@@ -1,0 +1,14 @@
+{
+  "version": "0.1.6",
+  "build": "7",
+  "tag": "v0.1.6",
+  "published_at": "2026-05-04T05:36:34.874Z",
+  "assets": {
+    "macos_dmg": "https://github.com/imwebme/iwx-rels/releases/download/v0.1.6/ImwebMacWidget-0.1.6.dmg",
+    "windows_installer": "https://github.com/imwebme/iwx-rels/releases/download/v0.1.6/Imweb%20Desktop%20Widget_0.1.6_x64-setup.exe"
+  },
+  "update_feeds": {
+    "macos": "https://imwebme.github.io/iwx-rels/updates/macos/appcast.xml",
+    "windows": "https://imwebme.github.io/iwx-rels/updates/windows/latest.json"
+  }
+}
