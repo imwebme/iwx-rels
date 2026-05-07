@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8",
-  "notes": "Automated desktop widget release v0.1.8.",
-  "pub_date": "2026-05-04T07:21:50.282Z",
+  "version": "0.1.9",
+  "notes": "Automated desktop widget release v0.1.9.",
+  "pub_date": "2026-05-07T06:58:34.855Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSTNqN0N2QUwzcHZ4T2ZQTXkrcWdOZU1QeDk1UDdhRGhZQW54bUFQTUYwQW5JMStpVGxpdUIzQk9vSEo5TjI2SWJHaHVoSFNXK1JPd2dEWWhTTUpMUlJUbk9aeVc3akFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3ODc5Mjg0CWZpbGU6SW13ZWIgRGVza3RvcCBXaWRnZXRfMC4xLjhfeDY0LXNldHVwLmV4ZQpzK0l6MHQvelg4aFZjL3Z5SmZWcTk1aStNT3NWQlRySzcwc0MyYnJOQmV3SFdoMmN4U1dVSlNiYjBRNU9mcktXTGVpcHZrSDJmZkg5dWN2RkMxaGpEdz09Cg==",
-      "url": "https://github.com/imwebme/iwx-rels/releases/download/v0.1.8/Imweb.Desktop.Widget_0.1.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSTNqN0N2QUwzcHRmeFhBYUxzRGNQNXorUTI0VDQrOUtzOTdxUmhkRXg0NElueXhiL1ZycnFsVEZMZStROW4yTUF6UU80YTBqZUYvTTJ3dUd1S0hvY0xPM1pVTGdWU1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTM3MDkwCWZpbGU6SW13ZWIgRGVza3RvcCBXaWRnZXRfMC4xLjlfeDY0LXNldHVwLmV4ZQo4bU52dzc1YTRaUmUrbTJmTEVEd0s5MUNSL25VUjNmSzZjTk1sUTFhbS90dVdnVENFWVBiWG5aSWUxSEU1WHJJSGwrUWlTcFhnekRxSnQxL25CREFBQT09Cg==",
+      "url": "https://github.com/imwebme/iwx-rels/releases/download/v0.1.9/Imweb.Desktop.Widget_0.1.9_x64-setup.exe"
     }
   }
 }
