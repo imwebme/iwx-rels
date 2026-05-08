@@ -1,11 +1,11 @@
 {
-  "version": "0.1.9",
-  "build": "10",
-  "tag": "v0.1.9",
-  "published_at": "2026-05-07T06:58:34.855Z",
+  "version": "0.1.10",
+  "build": "11",
+  "tag": "v0.1.10",
+  "published_at": "2026-05-08T11:03:15.646Z",
   "assets": {
-    "macos_dmg": "https://github.com/imwebme/iwx-rels/releases/download/v0.1.9/ImwebMacWidget-0.1.9.dmg",
-    "windows_installer": "https://github.com/imwebme/iwx-rels/releases/download/v0.1.9/Imweb.Desktop.Widget_0.1.9_x64-setup.exe"
+    "macos_dmg": "https://github.com/imwebme/iwx-rels/releases/download/v0.1.10/ImwebMacWidget-0.1.10.dmg",
+    "windows_installer": "https://github.com/imwebme/iwx-rels/releases/download/v0.1.10/Imweb.Desktop.Widget_0.1.10_x64-setup.exe"
   },
   "update_feeds": {
     "macos": "https://imwebme.github.io/iwx-rels/updates/macos/appcast.xml",
